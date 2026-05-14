@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "christian-kohler.path-intellisense",
+    "usernamehw.errorlens",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "eamodio.gitlens"
+  ]
+}
