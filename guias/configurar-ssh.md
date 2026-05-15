@@ -64,8 +64,15 @@ O ssh-agent é um programa que guarda sua chave em memória enquanto o computado
 
 **Iniciar o agente:**
 
+Mac/Linux
+
 ```bash
 eval "$(ssh-agent -s)"
+```
+
+Windows:
+```bash
+eval `ssh-agent -s`
 ```
 
 Deve aparecer algo como `Agent pid 12345`.
